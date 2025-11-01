@@ -1,0 +1,75 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+}
+/* COLOR AREA*/
+.colors {
+    border: 2px solid black;
+    margin: 40px;
+    padding-left: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.Lbrown {
+    background-color: #8d645a;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+}
+
+.beige {
+    background-color: #f9f9f9;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: black;
+}
+
+.Dbrown {
+    background-color: #333;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+}
+/*FONTS AREA*/
+.fonts {
+    border: 2px solid black;
+    margin: 40px;
+    padding-left: 20px;
+}
+
+.cinzel {
+    font-family: "Cinzel", Arial, Helvetica, sans-serif;
+}
+
+.DM-serif-text {
+    font-family: "DM Serif Text", Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+/*TEXT STYLES AREA*/
+.text-styles {
+    border: 2px solid black;
+    margin: 40px;
+    padding-left: 20px;
+}
